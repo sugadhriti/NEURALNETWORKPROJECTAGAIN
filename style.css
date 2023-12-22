@@ -1,0 +1,29 @@
+#body_background
+{
+    background-color: lightskyblue;
+}
+
+.name_of_objects
+{
+    font-size: 15px;
+    font-style: bold;
+    color: rgb(43, 0, 255);
+}
+
+#heading
+{
+    font-style: bold;
+}
+
+
+#camera
+{
+    height: 200px;
+    width: 200px;
+}
+
+#result
+{
+    height: 40px;
+    width: 40px;
+}
